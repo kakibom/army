@@ -16,7 +16,7 @@ a:hover {
 }
 
 
-/* heaer */
+/* header */
 .header {
 	background-color: #8E25A2;
 	height: 36px;
@@ -27,6 +27,13 @@ a:hover {
 	box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.45);
 	z-index: 1;
 	
+}
+
+/* body*/
+
+body {
+	width: 100%;
+	max-width: 720px;
 }
 
 .menu {
