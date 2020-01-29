@@ -79,10 +79,18 @@ body {
 	padding: 50px;
 }
 
-.int img {
+.int .img {
 	width: 180px;
 	height: 180px;
 	border-radius: 50%;
+	box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.45);
+}
+
+.int .yt_icon {
+	width: 35px;
+	position: absolute;
+	margin-top: 130px;
+	margin-left: 75px;
 	box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.45);
 }
 
