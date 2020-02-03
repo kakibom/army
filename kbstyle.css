@@ -138,6 +138,13 @@ body {
 	width: 50%;
 }
 
+.subject_hr_2 {
+	display:inline-block; 
+	border:2px solid white; 
+	width: 40%;
+}
+
+
 footer {
 	font-family: 'Nanum Gothic', sans-serif;
 	font-size: 10px;
